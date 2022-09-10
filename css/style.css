@@ -1,0 +1,27 @@
+
+a{
+    color: rgb(116, 91, 91);
+}
+h1{
+    color: brown;
+}
+h2{
+    color: rgb(235, 143, 23);
+}
+
+span{
+    color: rgb(43, 183, 226);
+}
+.content__block {
+    color: rgb(85, 50, 50);
+}
+.content__block--yellow{
+    color: yellow;
+}
+
+.networks__link--pink {
+    color: rgb(245, 79, 237);
+}
+#red{
+    color: red;
+}
